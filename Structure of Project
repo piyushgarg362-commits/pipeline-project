@@ -1,0 +1,18 @@
+java-maven-app/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/
+│   │           └── example/
+│   │               └── App.java
+│   │
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── AppTest.java
+│
+├── pom.xml
+├── Dockerfile
+├── Jenkinsfile
+└── README.md
